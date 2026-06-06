@@ -3,7 +3,7 @@
 AI & Data Science enthusiast working on machine learning, deep learning, and problem-solving.  
 I build practical projects, maintain notes, and consistently practice DSA and competitive programming.
 
-**Portfolio:** https://chaosss.netlify.app/
+**Portfolio:** https://chaossss.netlify.app/
 
 ---
 
