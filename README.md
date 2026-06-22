@@ -1,7 +1,8 @@
 # chaos
 
-AI & Data Science enthusiast working on machine learning, deep learning, and problem-solving.  
-I build practical projects, maintain notes, and consistently practice DSA and competitive programming.
+i am an ai engineer.
+my niche are ai, ml, dl...(under the hood machine learning).
+i am currently working on agentic ai & i learn explore things via books and research..!
 
 **Portfolio:** https://chaossss.netlify.app/
 
@@ -27,4 +28,4 @@ Most of my repositories focus on:
 All profiles, notes, blogs, and resources are available on my portfolio.
 
 I post daily work, updates, and learning logs here:
-**X:** [maxEpoch](https://x.com/chaosss_s)  
+**X:** [chaossworks](https://x.com/chaossworks)  
